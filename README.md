@@ -4,7 +4,7 @@
 
   <img align="right" sytle="inline" src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/codoacodo.png" width="100px" />
 
-  ## Trabajo Practico Integrador Front End del curso **Codo a Codo Java Full Stack 2023 Comision-23544**
+  ## Trabajo Practico Integrador Front End del curso **Codo a Codo Java Full Stack 2023 **
   ## # Instrucciones
   <p>
     Deberán replicar la siguiente página principal con lo visto en clase hasta el momento, se recomienda el uso de bootstrap
@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo.jpg" width="800px" >
   </div>
 
-  [🔗Link a GitHub Page del proyecto](https://xdek0x.github.io/Integrador-Bootstrap-CodoACodo-23544/)
+ /* [🔗Link a GitHub Page del proyecto](https://xdek0x.github.io/Integrador-Bootstrap-CodoACodo-23544/) */
 
 <!-- ÍNDICE -->
   <a name="indice"></a>
@@ -88,22 +88,10 @@
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 
-<!-- DESARROLLADO POR -->
-  <a name="desarrollado"></a>
-  ## 👨‍💻 Desarrollado por
-  * **Rodrigo Maximiliano Quintana Arroyo** - [xDEK0x](https://github.com/xDEK0x)
 
-  
-  <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
-  
-<!-- CONTACTO -->
-  <a name="contacto"></a>
-  ## 📩 Contacto
-  * **Si deseas contactarte conmigo**
   <div align="center">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dekkoxd/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmqa/)
+  
   </div>
 
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
